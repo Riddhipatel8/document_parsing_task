@@ -1,0 +1,291 @@
+{
+  "description": "LEASE relating to Fourth Floor, 10-12 Russell Square House, Russell Square, London, WC1",
+  "effective_date": "22 August 2025",
+  "landlord_name": "VISTRA TRUST COMPANY (JERSEY) LIMITED AND VISTRA (C.I.) LIMITED ACTING IN THEIR CAPACITY AS JOINT TRUSTEES OF THE RUSSELL SQUARE HOUSE UNIT TRUST",
+  "property_address": "Fourth Floor, 10-12 Russell Square House, Russell Square, London, WC1",
+  "tenant_name": "SYSTEMIQ LIMITED",
+  "consideration": {
+    "consideration": [
+      {
+        "consideration_type": "peppercorn rent",
+        "payment_amount": 0,
+        "currency": "",
+        "condition": "",
+        "amount_basis": "yearly",
+        "payment_frequency": "not_stated",
+        "payment_timing": "not_stated",
+        "payment_dates": "",
+        "payment_start_date": "2025-08-22",
+        "payment_end_date": "",
+        "rent_commencement_date": "2025-08-22",
+        "consideration_change_type": "original",
+        "targets_consideration_description": "",
+        "internal_source": "Lease",
+        "internal_evidence": [
+          {
+            "page": 17,
+            "clause": "3.1(a)(i)",
+            "text": "from and including the date of this Lease until and including the day before the First Rent Commencement date: one peppercorn;"
+          }
+        ],
+        "notes": "start_date_mechanism: the date of this Lease. end_date_mechanism: the day before the First Rent Commencement date."
+      },
+      {
+        "consideration_type": "rent",
+        "payment_amount": 248422.0,
+        "currency": "GBP",
+        "condition": "",
+        "amount_basis": "yearly",
+        "payment_frequency": "quarterly",
+        "payment_timing": "in advance",
+        "payment_dates": "the four usual quarter days",
+        "payment_start_date": "2026-08-22",
+        "payment_end_date": "",
+        "rent_commencement_date": "2026-08-22",
+        "consideration_change_type": "original",
+        "targets_consideration_description": "",
+        "internal_source": "Lease",
+        "internal_evidence": [
+          {
+            "page": 17,
+            "clause": "3.1(a)(ii)",
+            "text": "from and including the First Rent Commencement Date until and including the day before the Second Rent Commencement Date: the Reduced Basic Rent;"
+          },
+          {
+            "page": 7,
+            "clause": "5.",
+            "text": "Reduced Basic Rent Two Hundred and Forty Eight Thousand Four Hundred and Twenty Two Pounds (£248,422.00) per annum;"
+          }
+        ],
+        "notes": "end_date_mechanism: the day before the Second Rent Commencement Date."
+      },
+      {
+        "consideration_type": "rent",
+        "payment_amount": 496844.0,
+        "currency": "GBP",
+        "condition": "",
+        "amount_basis": "yearly",
+        "payment_frequency": "quarterly",
+        "payment_timing": "in advance",
+        "payment_dates": "the four usual quarter days",
+        "payment_start_date": "2026-09-22",
+        "payment_end_date": "",
+        "rent_commencement_date": "2026-09-22",
+        "consideration_change_type": "original",
+        "targets_consideration_description": "",
+        "internal_source": "Lease",
+        "internal_evidence": [
+          {
+            "page": 17,
+            "clause": "3.1(a)(iii)",
+            "text": "from and including the Second Rent Commencement Date the Basic Rent the Reduced Basic Rent and the Basic Rent as the case may be to be paid by equal quarterly payments in advance on the four usual quarter days in every year, the first payment being a proportionate sum in respect of the period from and including the First Rent Commencement Date to the day before the Second Rent Commencement Date to be made on the First Rent Commencement Date;"
+          },
+          {
+            "page": 7,
+            "clause": "4.",
+            "text": "Basic Rent Four Hundred and Ninety Six Thousand Eight Hundred and Forty Four Pounds (£496,844.00) per annum as reviewed in accordance with the terms of Schedule 5;"
+          }
+        ],
+        "notes": "end_date_mechanism: the Rent Review Date."
+      },
+      {
+        "consideration_type": "reverse premium",
+        "payment_amount": 5367.23,
+        "currency": "GBP",
+        "condition": "",
+        "amount_basis": "not_stated",
+        "payment_frequency": "not_stated",
+        "payment_timing": "not_stated",
+        "payment_dates": "",
+        "payment_start_date": "2025-08-22",
+        "payment_end_date": "",
+        "rent_commencement_date": "",
+        "consideration_change_type": "original",
+        "targets_consideration_description": "",
+        "internal_source": "Lease",
+        "internal_evidence": [
+          {
+            "page": 37,
+            "clause": "5.4",
+            "text": "On the date hereof the Landlord will pay to the Tenant a contribution of £5,367.23 in respect of floor boxes (based upon £75 per floor box based on 1:10 sq m on the basis of a Property internal area of 7,703.00 sq ft) and the parties agree that such payment is a reverse premium in accordance with HMRC guidance/requirements."
+          }
+        ],
+        "notes": "start_date_mechanism: the date hereof. Landlord contribution for floor boxes."
+      },
+      {
+        "consideration_type": "peppercorn rent",
+        "payment_amount": 0,
+        "currency": "",
+        "condition": "If the Tenant does not serve notice to terminate this Lease pursuant to the terms of this clause 17",
+        "amount_basis": "yearly",
+        "payment_frequency": "not_stated",
+        "payment_timing": "not_stated",
+        "payment_dates": "",
+        "payment_start_date": "",
+        "payment_end_date": "",
+        "rent_commencement_date": "",
+        "consideration_change_type": "original",
+        "targets_consideration_description": "",
+        "internal_source": "Lease",
+        "internal_evidence": [
+          {
+            "page": 42,
+            "clause": "17.6",
+            "text": "If the Tenant does not serve notice to terminate this Lease pursuant to the terms of this clause 17, the Basic Rent for the period from and including the day after the Break Date until and including [insert date being the end of the 6 months after the Break Date] shall be reduced to a peppercorn."
+          }
+        ],
+        "notes": "start_date_mechanism: the day after the Break Date. end_date_mechanism: the end of the 6 months after the Break Date."
+      }
+    ],
+    "rent_model_terms": [
+      {
+        "term_type": "formula",
+        "mechanism_summary": "HIGHER_OF: The Basic Rent shall be the greater of the Basic Rent payable immediately before the relevant Rent Review Date and the open market rent agreed or determined pursuant to Part B of this schedule.",
+        "currency": "GBP",
+        "fixed_amount_printed": "",
+        "requires_external_inputs": true,
+        "external_inputs": [
+          "Valuation: open market rent as at the Rent Review Date"
+        ],
+        "internal_source": "Lease",
+        "internal_evidence": [
+          {
+            "page": 66,
+            "clause": "Schedule 5 Part A, 2.",
+            "text": "The amount of Basic Rent shall be reviewed on the Rent Review Date to the greater of: (a) the Basic Rent payable immediately before the relevant Rent Review Date (or which would then be payable but for any abatement or suspension of the Basic Rent or restriction on the right to collect it); and (b) the open market rent agreed or determined pursuant to Part B of this schedule"
+          },
+          {
+            "page": 7,
+            "clause": "4.",
+            "text": "Basic Rent Four Hundred and Ninety Six Thousand Eight Hundred and Forty Four Pounds (£496,844.00) per annum as reviewed in accordance with the terms of Schedule 5;"
+          }
+        ],
+        "notes": "Rent Review Date: 2030-05-22."
+      }
+    ],
+    "contingent_consideration": []
+  },
+  "consideration_review": {
+    "consideration_review": [
+      {
+        "review_type": "market",
+        "review_basis": "The Basic Rent is reviewed on the Rent Review Date to the greater of the Basic Rent payable immediately before the review and the open market rent, as determined by a Surveyor. The determination includes specific valuation assumptions and disregards certain matters.",
+        "currency": "GBP",
+        "upward_only_review": true,
+        "reviewed_rent_components": [
+          "Basic Rent"
+        ],
+        "review_effective_date": "",
+        "review_date_mechanism": "",
+        "status": "valid",
+        "flags": [],
+        "review_change_type": "original",
+        "targets_review_description": "",
+        "internal_source": "LEASE",
+        "internal_evidence": [
+          {
+            "page": 7,
+            "clause": "9. Rent Review Date",
+            "text": "22 May 2030."
+          },
+          {
+            "page": 7,
+            "clause": "4. Basic Rent",
+            "text": "Four Hundred and Ninety Six Thousand Eight Hundred and Forty Four Pounds (£496,844.00) per annum as reviewed in accordance with the terms of Schedule 5;"
+          },
+          {
+            "page": 63,
+            "clause": "SCHEDULE 5 Part A 2.",
+            "text": "The amount of Basic Rent shall be reviewed on the Rent Review Date to the greater of: (a) the Basic Rent payable immediately before the relevant Rent Review Date (or which would then be payable but for any abatement or suspension of the Basic Rent or restriction on the right to collect it); and (b) the open market rent agreed or determined pursuant to Part B of this schedule"
+          },
+          {
+            "page": 63,
+            "clause": "SCHEDULE 5 Part B 2.",
+            "text": "If the open market rent is determined by the Surveyor, it shall be the amount that the Surveyor determines is the open market yearly rent (exclusive of any VAT) at which the Property could reasonably be expected to be let: (a) in the open market;"
+          },
+          {
+            "page": 68,
+            "clause": "SCHEDULE 5 Part C 1.",
+            "text": "If the revised Basic Rent has not been agreed by the Landlord and the Tenant or determined by the Surveyor on or before the relevant Rent Review Date, the Basic Rent payable from the relevant Rent Review Date shall continue at the rate payable immediately before the relevant Rent Review Date."
+          },
+          {
+            "page": 68,
+            "clause": "SCHEDULE 5 Part C 1.",
+            "text": "No later than ten working days after the revised Basic Rent is agreed or the Surveyor’s determination is notified to the Landlord and the Tenant, the Tenant shall pay: (a) the shortfall (if any) between the amount that it has paid for the period from the relevant Rent Review Date until the Rent Payment Date following the date of agreement or notification of the revised Basic Rent and the amount that would have been payable had the revised Basic Rent been agreed or determined on or before the relevant Rent Review Date; and (b) interest at the Base Rate on that shortfall calculated on a daily basis by reference to the Rent Payment Dates on which parts of the shortfall would have been payable if the Basic Rent had been agreed or determined on or before the relevant Rent Review Date and the date payment is received by the Landlord."
+          }
+        ],
+        "trigger": {
+          "type": "date",
+          "dates": [
+            "2030-05-22"
+          ],
+          "cycle": "",
+          "event": "",
+          "anchor_date": "2030-05-22",
+          "anchor_label": "Rent Review Date",
+          "anchor_source": "The Rent Review Date is explicitly stated in the Particulars section of the lease.",
+          "anchor_kind": "named review date",
+          "anchor_reasoning": "The first and only review date is explicitly printed in the Particulars.",
+          "cycle_reference_date": "",
+          "cycle_pattern": "not applicable",
+          "cycle_period": "",
+          "cycle_end_date": ""
+        },
+        "indexation": {
+          "index_name": "",
+          "base_date": "",
+          "cap_percent": null,
+          "floor_percent": null,
+          "upwards_only": false
+        },
+        "constraints": {
+          "greater_of": true,
+          "floor_to_previous_rent": true,
+          "cap_present": false,
+          "statutory_staging": false,
+          "interim_rent_pending_determination": true,
+          "backdating": true,
+          "interest_on_backpay": true
+        }
+      }
+    ]
+  },
+  "key_dates": {
+    "key_dates": [
+      {
+        "date_value": "2025-08-22",
+        "date_type": "other",
+        "event_role": "statutory",
+        "date_description": "The Notice was served on 22 August 2025.",
+        "internal_source": "LEASE",
+        "internal_evidence": [
+          {
+            "page": 45,
+            "clause": "15.2",
+            "text": "The Notice was served on 22 August 2025."
+          }
+        ],
+        "notes": "Date on which the notice for exclusion of Landlord and Tenant Act 1954 sections 24-28 was served."
+      }
+    ],
+    "term": {
+      "term_period": "10 years",
+      "term_start_date": "",
+      "term_end_date": "",
+      "is_fixed_term": true,
+      "internal_source": "LEASE",
+      "internal_evidence": [
+        {
+          "page": 4,
+          "clause": "LR6. Term for which the Property is leased",
+          "text": "10 years from and including the date of this Lease to and including              day of                           2035."
+        },
+        {
+          "page": 7,
+          "clause": "3. Term",
+          "text": "10 years from and including the date of this Lease up to and including                              day of                     2035;"
+        }
+      ]
+    }
+  }
+}
